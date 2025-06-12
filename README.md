@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red.svg)
+![Model Accuracy](https://img.shields.io/badge/Test%20Accuracy-85.47%25-yellowgreen)
+
+
 # Sign Language Digit Classification using CNN
 This project involves building a Convolutional Neural Network (CNN) to classify hand gestures representing digits (0–9) in American Sign Language. The model is trained on a pre-processed image dataset and evaluated for accuracy, precision, recall, and overall performance using standard metrics and visualizations.
 
